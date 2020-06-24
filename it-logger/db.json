@@ -9,17 +9,24 @@
     },
     {
       "id": 2,
-      "message": "Workstation 007 not posting",
-      "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
+      "message": "Fixed posting error at workstation 007",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-06-24T19:34:08.765Z"
     },
     {
       "id": 3,
-      "message": "Changed memory on workstation 050",
+      "message": "Workstation memory core 050 ",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-06-24T19:29:36.620Z"
+    },
+    {
+      "id": 7,
+      "message": "fixed 0029 hard drive",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Wilson"
+      "tech": "Sam Smith",
+      "date": "2020-06-24T19:33:33.964Z"
     }
   ],
   "techs": [
