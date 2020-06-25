@@ -1,32 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
-    },
-    {
-      "id": 2,
-      "message": "Fixed posting error at workstation 007",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2020-06-24T19:34:08.765Z"
-    },
-    {
-      "id": 3,
-      "message": "Workstation memory core 050 ",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2020-06-24T19:29:36.620Z"
-    },
-    {
-      "id": 7,
-      "message": "fixed 0029 hard drive",
+      "message": "fixed 002 hard drive",
       "attention": false,
       "tech": "Sam Smith",
-      "date": "2020-06-24T19:33:33.964Z"
+      "date": "2020-06-25T09:55:11.577Z",
+      "id": 1
+    },
+    {
+      "message": "workstation 050 posting error repair ",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-06-25T09:56:15.336Z",
+      "id": 2
+    },
+    {
+      "message": "changed memory core of workstation 007",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-06-25T09:56:51.062Z",
+      "id": 3
     }
   ],
   "techs": [
